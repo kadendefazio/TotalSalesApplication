@@ -1,0 +1,16 @@
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\bin\Debug\net8.0-windows\TotalSalesApplication.exe
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\bin\Debug\net8.0-windows\TotalSalesApplication.deps.json
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\bin\Debug\net8.0-windows\TotalSalesApplication.runtimeconfig.json
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\bin\Debug\net8.0-windows\TotalSalesApplication.dll
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\bin\Debug\net8.0-windows\TotalSalesApplication.pdb
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.Form1.resources
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.csproj.GenerateResource.cache
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.AssemblyInfoInputs.cache
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.AssemblyInfo.cs
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.csproj.CoreCompileInputs.cache
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.dll
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\refint\TotalSalesApplication.dll
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.pdb
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\TotalSalesApplication.genruntimeconfig.cache
+C:\Users\kaden\source\repos\TotalSalesApplication\TotalSalesApplication\obj\Debug\net8.0-windows\ref\TotalSalesApplication.dll
